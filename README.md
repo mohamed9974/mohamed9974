@@ -16,11 +16,11 @@
 
 - [_Skills :_](README.md#skills/tools)
 
--- [_Infrastructure Deplyments_](README.md#devops)
+  - [_Infrastructure Deplyments_](README.md#devops)
 
--- [_Software Development_](README.md#software-development)
+  - [_Software Development_](README.md#software-development)
 
--- [_Security Analytics_](README.md#security)
+  - [_Security Analytics_](README.md#security)
 
 - [_Experience_](README.md#Work-Experience)
 
