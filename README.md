@@ -5,10 +5,28 @@
         Welcome to my GitHub repository
         For my Projects I invite you to visit my GitHub repository :D <3
 
-**Mohamed Ali Amin**
-[_mohamed.amin@metu.edu.tr_](mailto:mohamed.amin@metu.edu.tr)  
-_+90-552-554-8660_
-[_linkedIn/mohamedaliamin_](https://www.linkedin.com/in/mohamedaliamin)
+- [My GitHub](https://www.github.com/mohamed9974)
+- [My LinkedIn](https://www.linkedin.com/in/mohamedaliamin)
+- [My Email](mailto:mohamed.amin@metu.edu.tr)
+  _+90-552-554-8660_
+
+## Quick Links
+
+### [_Education_](README.md#education)
+
+### [_Skills_](README.md#skills/tools)
+
+#### [_Software Development_](README.md#software-development)
+
+##### [_Programming Languages_](README.md#languages)
+
+##### [_Scripting_](README.md#scripting)
+
+### [_Infrastructure_](README.md#infrastructure)
+
+### [_Security_](README.md#security)
+
+[_Experience_](README.md#Work-Experience)
 
 ## Education
 
@@ -30,53 +48,59 @@ _+90-552-554-8660_
 
 ## Skills/Tools
 
-### Languages
+### DevOps
 
-    Haskell, Java, Python, C, Dart, C , C++  
+#### Databases
 
-### Scripting  
+    MySQL,Sqlite, PostgreSQL, MongoDB
 
-    Bash, Python , PowerShell 
+#### Secuirty infrastructure
 
-### Web Development
+      EDR(Wazuh), Fortinet, Privaledge Access Management, SOAR(Shuffler),Pfsense, honeyPot
 
-     Solidity, \LaTeX, JavaScript, TypeScript,realm ,(MERN) Stack , Django, Flutter, WordPress 
+#### Infrastructure
 
-### Databases  
+    Apache(Cassandra - Hive - Hadoop), Ansible, grafana , (ELK) stack, Gitlab, Jira, Nginx, IIS , Active directory
 
-    MySQL,Sqlite, PostgreSQL, MongoDB 
+#### Virtualiztion
 
-### Pen-testing
+     Docker,multipass, VMware ESXi , Proxmox
 
-     Metasplpoit, nmap, OWASP-ZAP , Burpsuite, SQLinjection tools , Nessus, Hydra 
+#### Cloud services
 
-### Secuirty Analysis
+     Azure, Google Cloud, DigitalOcean, Linode , heroku
 
-      SIEM(ELK), Snort, Wireshark, Zabbix, Rsyslog, TheHive-Cortex-MISP stack (CTI) 
+### Software Development
 
-### Secuirty infrastructure
+#### Languages
 
-      EDR(Wazuh), Fortinet, Privaledge Access Management, SOAR(Shuffler),Pfsense, honeyPot 
+    Haskell, Java, Python, C, Dart, C , C++
 
-### Infrastructure  
+#### Scripting
 
-    Apache(Cassandra - Hive - Hadoop), Ansible, grafana , (ELK) stack, Gitlab, Jira, Nginx, IIS , Active directory 
+    Bash, Python , PowerShell
 
-### Virtualiztion
+#### Web Development
 
-     Docker,multipass, VMware ESXi , Proxmox 
+     Solidity, \LaTeX, JavaScript, TypeScript,realm ,(MERN) Stack , Django, Flutter, WordPress
 
-### Cloud services
+### Security
 
-     Azure, Google Cloud, DigitalOcean, Linode , heroku 
+#### Pen-testing
 
-### Data Analytics  
+     Metasplpoit, nmap, OWASP-ZAP , Burpsuite, SQLinjection tools , Nessus, Hydra
 
-    Pytorch, TensorFlow, NumPy, OpenCV, Pandas, Django, MATLAB 
+#### Secuirty Analysis
 
-### Embedded/IoT  
+      SIEM(ELK), Snort, Wireshark, Zabbix, Rsyslog, TheHive-Cortex-MISP stack (CTI)
 
-    MPLAB,Xilnix,Arduino, PIC, Embeded C 
+### Data Analytics
+
+    Pytorch, TensorFlow, NumPy, OpenCV, Pandas, Django, MATLAB
+
+### Embedded/IoT
+
+    MPLAB,Xilnix,Arduino, PIC, Embeded C
 
 ## Work Experience
 
@@ -120,13 +144,13 @@ reputation and approaching funds and sponsors.
 ### _Apply Center (Startup)_
 
 - Build up an ERP system for the startup setting up the infrastructure and
-the IT system for the company using Odoo and Zoho
-technologies.(Increasing Productivity by 75% in 3 month)
+  the IT system for the company using Odoo and Zoho
+  technologies.(Increasing Productivity by 75% in 3 month)
 
 - Achieved a market reach to more than 100k people by managing and
-improving the quality of the sales team and improving the overall
-quality of the customer service. (Achieved the second in the market
-space in popularity and Brand awareness)
+  improving the quality of the sales team and improving the overall
+  quality of the customer service. (Achieved the second in the market
+  space in popularity and Brand awareness)
 
 ### _FreeLancer_
 
