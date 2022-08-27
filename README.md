@@ -13,15 +13,12 @@
 ## Quick Links
 
 - [_Education_](README.md#education)
-
 - [_Skills :_](README.md#skills/tools)
-
   - [_Infrastructure Deplyments_](README.md#devops)
-
   - [_Software Development_](README.md#software-development)
-
-  - [_Security Analytics_](README.md#security)
-
+  - [_Cyber Secuirty_](README.md#security)
+  - [_Data Science_](README.md#Data-Analytics)
+  - [_IoT_](README.md#Embedded/IoT)
 - [_Experience_](README.md#Work-Experience)
 
 ## Education
