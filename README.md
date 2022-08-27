@@ -14,13 +14,13 @@
 
 ### [_Education_](README.md#education)
 
-### [_Skills_](README.md#skills/tools)
+### [_Skills :_](README.md#skills/tools)
 
-#### [_Infrastructure Deplyments_](README.md#devops)
+#### [_    Infrastructure Deplyments_](README.md#devops)
 
-#### [_Software Development_](README.md#software-development)
+#### [_    Software Development_](README.md#software-development)
 
-#### [_Security Analytics_](README.md#security)
+#### [_    Security Analytics_](README.md#security)
 
 ### [_Experience_](README.md#Work-Experience)
 
