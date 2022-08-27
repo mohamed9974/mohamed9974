@@ -8,7 +8,7 @@
 - [My GitHub](https://www.github.com/mohamed9974)
 - [My LinkedIn](https://www.linkedin.com/in/mohamedaliamin)
 - [My Email](mailto:mohamed.amin@metu.edu.tr)
-  _+90-552-554-8660_
+- [My Phone Number: +90-552-554-8660](tel:+905525548660)
 
 ## Quick Links
 
