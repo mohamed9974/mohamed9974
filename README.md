@@ -12,17 +12,17 @@
 
 ## Quick Links
 
-### [_Education_](README.md#education)
+- [_Education_](README.md#education)
 
-### [_Skills :_](README.md#skills/tools)
+- [_Skills :_](README.md#skills/tools)
 
-#### [_    Infrastructure Deplyments_](README.md#devops)
+-- [_Infrastructure Deplyments_](README.md#devops)
 
-#### [_    Software Development_](README.md#software-development)
+-- [_Software Development_](README.md#software-development)
 
-#### [_    Security Analytics_](README.md#security)
+-- [_Security Analytics_](README.md#security)
 
-### [_Experience_](README.md#Work-Experience)
+- [_Experience_](README.md#Work-Experience)
 
 ## Education
 
