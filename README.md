@@ -18,15 +18,15 @@
 
 #### [_Software Development_](README.md#software-development)
 
-##### [_Programming Languages_](README.md#languages)
+[_Programming Languages_](README.md#languages)
 
-##### [_Scripting_](README.md#scripting)
+[_Scripting_](README.md#scripting)
 
-### [_Infrastructure_](README.md#infrastructure)
+[_Infrastructure_](README.md#devops)
 
-### [_Security_](README.md#security)
+### [_Security Analytics_](README.md#security)
 
-[_Experience_](README.md#Work-Experience)
+### [_Experience_](README.md#Work-Experience)
 
 ## Education
 
