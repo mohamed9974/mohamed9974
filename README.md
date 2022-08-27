@@ -4,10 +4,11 @@
         of Linux, Crypto & Cyber Security
         Welcome to my GitHub repository
         For my Projects I invite you to visit my GitHub repository :D <3
-
+        
 - [My GitHub](https://www.github.com/mohamed9974)
 - [My LinkedIn](https://www.linkedin.com/in/mohamedaliamin)
-- [My Email](mailto:mohamed.amin@metu.edu.tr)
+- [My Email](mailto:contact@mohamedalyamin.com)
+- [My Website](https://mohamedalyamin.com)
 
 ## Quick Links
 
