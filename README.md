@@ -16,6 +16,8 @@
 
 ### [_Skills_](README.md#skills/tools)
 
+#### [_Infrastructure Deplyments_](README.md#devops)
+
 #### [_Software Development_](README.md#software-development)
 
 #### [_Security Analytics_](README.md#security)
